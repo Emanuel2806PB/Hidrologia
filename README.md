@@ -22,7 +22,7 @@ Materiais de Hidrologia
 
 ### Medição de vazão
 
-  - [Lista 1](/ESTUDO_DIRIGIDO_UNIDADE_3.pdf)
+  - [Lista 1](https://github.com/Emanuel2806PB/Hidrologia/blob/c647d07affccc2dd9463e00677f05e037a208865/LISTA%201%20-%20UNIDADE%203%20-%20%20HIDROLOGIA.pdf)
   - [Lista 2]()
 
 
