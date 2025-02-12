@@ -1,4 +1,4 @@
-![Hidrologia](https://github.com/Emanuel2806PB/Hidrologia/blob/2e6aeb0b80cc2ea1b8c2f7fc215d048b60b60d37/capa_hidro.png)
+![Hidrologia](/capa_hidro.png)
 
 # Hidrologia
 
