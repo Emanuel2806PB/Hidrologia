@@ -22,7 +22,8 @@ Materiais de Hidrologia
 
 ### Medição de vazão
 
-  - [Exercícios - Unidade 3](/ESTUDO_DIRIGIDO_UNIDADE_3.pdf)
+  - [Lista 1](/ESTUDO_DIRIGIDO_UNIDADE_3.pdf)
+  - [Lista 2]()
 
 
 Roteiros práticos
