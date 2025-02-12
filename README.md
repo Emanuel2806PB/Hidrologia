@@ -7,10 +7,10 @@
 ## Listas de Exercícios
 
 ### Bacia Hidrográfica
-- **[Lista Bacia Hidrográfica](https://github.com/Emanuel2806PB/Hidrologia/raw/main/01_Lista_Bacia_Hidrografica.pdf)**: Exercícios sobre bacia hidrográfica.
+- **[Lista Bacia Hidrográfica](/raw/main/01_Lista_Bacia_Hidrografica.pdf)**: Exercícios sobre bacia hidrográfica.
 
 ### Precipitação
-- **[Precipitação Média em uma Bacia Hidrográfica](https://github.com/Emanuel2806PB/Hidrologia/raw/main/02_Lista_P_media.pdf)**: Lista de exercícios sobre precipitação média.
+- **[Precipitação Média em uma Bacia Hidrográfica](/raw/main/02_Lista_P_media.pdf)**: Lista de exercícios sobre precipitação média.
 - **[Chuvas Intensas](https://github.com/Emanuel2806PB/Hidrologia/raw/main/03_Lista_Chuvas_Intensas.pdf)**: Exercícios sobre chuvas intensas.
 
 ### Evapotranspiração
