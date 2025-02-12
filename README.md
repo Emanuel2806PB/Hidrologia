@@ -1,5 +1,6 @@
 # Hidrologia
-Materiais de Hidrologia
+
+**Seja bem-vindo! Os materiais a seguir são fruto de um árduo trabalho de 3 anos à frente da monitoria da disciplina de Hidrologia. No decorrer deste percurso, foram elaborados diversos conteúdos, incluindo roteiros e vídeos. Um trabalho que foi reconhecido pela UFPB com a contemplação do prêmio Iniciação à Docência no ano de 2023, sendo o 1º colocado no Centro de Tecnologia.**
 
 ## Listas de Exercícios
 
