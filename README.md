@@ -6,7 +6,7 @@ Listas de exercícios
 
 # Precipitação
 
-  - [Precipitação média em uma Bacia Hidrográfica](/Lista 1 - Prec_Med - Hidrologia.pdf)
+  - [Precipitação média em uma Bacia Hidrográfica](Hidrologia/Lista 1 - Prec_Med - Hidrologia.pdf)
 
 # Evapotranspiração
 
