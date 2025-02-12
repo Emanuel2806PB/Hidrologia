@@ -4,7 +4,8 @@ Materiais de Hidrologia
 
 Listas de exercícios
 
-  -
+  - Precipitação
+    - [Chuvas intensas] (/lista_chuvas_intensas.pdf)
   -
   -
   -
