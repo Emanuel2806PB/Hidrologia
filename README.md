@@ -32,7 +32,7 @@ Materiais de Hidrologia
 
 ## Roteiros experimentais
 
-* [Teste de infiltração com anéis concentricos]()
+* [Teste de infiltração com anéis concentricos](https://github.com/Emanuel2806PB/Hidrologia/blob/71caef92a3ac6063f784842fc446e4c16167359f/2-ROTEIRO_INFILTRACAO.pdf)
 
 Vídeos
 
