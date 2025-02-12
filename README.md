@@ -6,7 +6,7 @@ Listas de exercícios
 
 # Precipitação
 
-  - [Chuvas intensas] (/Lista 1 - Prec_Med - Hidrologia.pdf)
+  - [Chuvas intensas]
 
 # Evapotranspiração
 
