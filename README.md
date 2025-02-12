@@ -4,9 +4,12 @@ Materiais de Hidrologia
 
 Listas de exercícios
 
-  - Precipitação
-    - [Chuvas intensas] (/lista_chuvas_intensas.pdf)
-  -
+# Precipitação
+
+  - [Chuvas intensas] (/Lista 1 - Prec_Med - Hidrologia.pdf)
+
+# Evapotranspiração
+
   -
   -
   - [Exercícios - Unidade 3](/ESTUDO_DIRIGIDO_UNIDADE_3.pdf)
