@@ -6,7 +6,7 @@
   **Materiais didáticos, exercícios e práticas experimentais para formação em Engenharia Ambiental e Civil.**
 
   [![Conteúdo](https://img.shields.io/badge/conteúdo-hidrologia-002060)](#conteúdos)
-  [![Materiais](https://img.shields.io/badge/materiais-12_PDFs-EF7726)](#conteúdos)
+  [![Materiais](https://img.shields.io/badge/materiais-13_PDFs-EF7726)](#conteúdos)
   [![Instituição](https://img.shields.io/badge/instituição-UFPB-002060)](https://www.ufpb.br/)
 </div>
 
@@ -30,6 +30,12 @@ O trabalho desenvolvido na monitoria contribuiu para o projeto **Estratégias de
 | 08 | Medição de vazão II | [Abrir lista](08_Lista_Vazão_II.pdf) | Aplicações complementares de hidrometria |
 | Prática | Infiltração com anéis concêntricos | [Abrir roteiro](ROTEIRO_INFILTRACAO.pdf) | Planejamento experimental, coleta e interpretação de dados |
 | Prática | Medição de vazão em rios | [Abrir roteiro](praticas/medicao_vazao/roteiro_medicao_vazao.pdf) | Batimetria, velocidade, cálculo de áreas e descarga líquida |
+
+### Ficha de campo — infiltração
+
+| Experimento | Material | Uso |
+|---|---|---|
+| Infiltrômetro de anéis concêntricos | [Baixar ficha de coleta](praticas/infiltracao/ficha_coleta_dados.pdf) | Registro de tempo, lâmina d'água e velocidades de infiltração média e aproximada |
 
 ### Fichas de campo — medição de vazão
 
