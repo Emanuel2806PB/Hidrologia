@@ -6,7 +6,7 @@
   **Materiais didáticos, exercícios e práticas experimentais para formação em Engenharia Ambiental e Civil.**
 
   [![Conteúdo](https://img.shields.io/badge/conteúdo-hidrologia-002060)](#conteúdos)
-  [![Materiais](https://img.shields.io/badge/materiais-9_PDFs-EF7726)](#conteúdos)
+  [![Materiais](https://img.shields.io/badge/materiais-12_PDFs-EF7726)](#conteúdos)
   [![Instituição](https://img.shields.io/badge/instituição-UFPB-002060)](https://www.ufpb.br/)
 </div>
 
@@ -29,6 +29,14 @@ O trabalho desenvolvido na monitoria contribuiu para o projeto **Estratégias de
 | 07 | Medição de vazão I | [Abrir lista](07_Lista_Vazão.pdf) | Métodos de medição e cálculo de descarga líquida |
 | 08 | Medição de vazão II | [Abrir lista](08_Lista_Vazão_II.pdf) | Aplicações complementares de hidrometria |
 | Prática | Infiltração com anéis concêntricos | [Abrir roteiro](ROTEIRO_INFILTRACAO.pdf) | Planejamento experimental, coleta e interpretação de dados |
+| Prática | Medição de vazão em rios | [Abrir roteiro](praticas/medicao_vazao/roteiro_medicao_vazao.pdf) | Batimetria, velocidade, cálculo de áreas e descarga líquida |
+
+### Fichas de campo — medição de vazão
+
+| Método | Material | Uso |
+|---|---|---|
+| Molinete ou medidor eletromagnético | [Baixar ficha de medição](praticas/medicao_vazao/ficha_molinete_eletromagnetico.pdf) | Registro de profundidades, velocidades e dados da seção transversal |
+| Método expedito com flutuador | [Baixar ficha de medição](praticas/medicao_vazao/ficha_metodo_flutuador.pdf) | Registro de dimensões do trecho e tempos de percurso do flutuador |
 
 ## Resoluções comentadas
 
@@ -89,8 +97,8 @@ Aplicações em gestão de recursos hídricos
 1. Comece pela caracterização da bacia hidrográfica.
 2. Avance para precipitação média e chuvas intensas.
 3. Estude as perdas por evapotranspiração, interceptação e infiltração.
-4. Finalize com os exercícios de medição de vazão.
-5. Utilize o roteiro experimental para conectar teoria e observação em campo.
+4. Finalize com os exercícios e o roteiro de medição de vazão.
+5. Utilize os roteiros experimentais e as fichas de campo para conectar teoria, coleta e interpretação dos dados.
 
 ## Como utilizar
 
